@@ -24,3 +24,5 @@ Go Full Stack or get Fully Stuck!! </p><p align='left'> You can view my resume <
 [![Github stats](https://github-readme-stats.vercel.app/api?username=paurush2508&show_icons=true&include_all_commits=true)](https://github.com/paurush2508/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paurush2508&layout=compact)](https://github.com/paurush2508/github-readme-stats)
 
+![Paurush's github stats](https://github-readme-stats.vercel.app/api?username=paurush2508&show_icons=true&theme=merko)
+
