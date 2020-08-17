@@ -22,7 +22,3 @@ Go Full Stack or get Fully Stuck!! </p><p align='left'> You can view my resume <
 <p align=left> <img src=https://komarev.com/ghpvc/?username=paurush2508 alt=paurush2508 /> </p>
 
 ![Paurush's github stats](https://github-readme-stats.vercel.app/api?username=paurush2508&show_icons=true&theme=tokyonight) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paurush2508&layout=compact)](https://github.com/paurush2508/github-readme-stats)
-
-
-
